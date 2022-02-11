@@ -6,9 +6,9 @@ public class PreparingForAnInvasion extends Stage {
 	public PreparingForAnInvasion() {
 		int[][] mappo
 		= {
-				{1,1},
-				{1,1},
-				{1,1},
+				{1,1,1},
+				{1,1,1},
+				{1,1,1},
 		};
 		this.map=mappo;
 		this.number=3;

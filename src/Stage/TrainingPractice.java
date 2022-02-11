@@ -6,9 +6,9 @@ public class TrainingPractice extends Stage{
 	public TrainingPractice() {
 		int[][] mappo
 		= {
-				{1,1},
-				{1,1},
-				{1,1},
+				{1,1,1},
+				{1,1,1},
+				{1,1,1},
 		};
 		this.map=mappo;
 		this.number=1;
